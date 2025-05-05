@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">Connect with me!</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/juthika-gomes">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juthika Gomes LinkedId"/>
+      </a>
+</div>
 
-<!--
-**jgomes8478/jgomes8478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :woman_technologist: About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a Business Analyst and a Senior Management Information System student at UMGC, I bring strong skills in data management, metadata organization, and analysis, and I am ready to contribute immediately to a forward-thinking organization. 
+
+My experience as an OSTEM Metadata Intern at NASA involved working with large datasets and ensuring metadata accuracy. I also have extensive experience in complex data analysis using tools like Tableau, Power BI, Advanced Spreadsheet, SQL, and RegEx. With a passion for Business Analytics and information systems, I am eager to apply my expertise to drive meaningful insights and impact.
+
+Please feel free to contact me via LinkedIn, or Email.
+
+### 📊 Top Skills:
+
+* Data Analysis & Visualization
+* Tableau
+* Power BI
+* SQL
+* RegEx
+* Python
+* Advanced Spreadsheet
