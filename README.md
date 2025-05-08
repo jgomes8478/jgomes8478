@@ -1,9 +1,6 @@
-<div align="center">Connect with me!</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/juthika-gomes">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juthika Gomes LinkedId"/>
-      </a>
-</div>
+Email: jagomes8478@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/juthika-gomes
 
 ---
 
